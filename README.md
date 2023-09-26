@@ -10,7 +10,7 @@ The main intent of this project is to develop a deeper understanding of SageMake
 
 Here are some related projects
 
-[Blog Link in Medium](https://github.com/matiassingers/awesome-readme)
+[Blog Link in Medium](https://medium.com/@aadayapalamsrinivasa/sagemaker-inference-customizations-d69cf10ecde0)
 
 
 ## Acknowledgements
